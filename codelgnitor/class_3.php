@@ -1,2 +1,12 @@
 <?php
-echo "This is my home page";
+
+?>
+<html>
+    <head>
+        <title> Learn Codelginitor</title>
+        <meta charset="UTF-8">
+        <meta>
+
+    </head>
+
+</html>
