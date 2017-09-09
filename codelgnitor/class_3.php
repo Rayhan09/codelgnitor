@@ -28,7 +28,7 @@
                         <p>Training is teaching, or developing in oneself or others, any skills and knowledge that relate to specific useful competencies. Training has specific goals of improving one's capability, capacity, productivity and performance.</p>
 
                     <h3>PHP</h3>
-                        <p>Training Overview
+                        <p align="justify">Training Overview
 
                             As wonderful as Laravel is, it does assume that you have a basic understanding of object-oriented. If you enjoy this style of learning, TalhaTraining is the missing piece in learning Laravel. We provide professional specialized training in Laravel.
 
@@ -73,7 +73,7 @@
                             Advantage of using Framework
                             Introducing Laravel Framework</p>
                     <h3>Python</h3>
-                        <p>Prerequisites
+                        <p align="justify">Prerequisites
 
                             You should have a basic understanding of programming language and any text editor.
 
@@ -117,7 +117,7 @@
                             If...Else Statements
                             Nested If Statements</p>
                     <h3>Java J2EE</h3>
-                        <p>
+                        <p align="justify">
                             Java Platform, Enterprise Edition (Java EE)
                             The Java Platform, Enterprise Edition (Java EE) is a collection of Java APIs owned by Oracle that software developers can use to write server-side applications. It was formerly known as Java 2 Platform, Enterprise Edition, or J2EE.
                             DEFINITION
