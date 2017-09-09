@@ -12,8 +12,12 @@
     <body>
         <table cellpadding="10px" border="1" align="center" width="980px" height="980">
             <tr>
-                <td height="100px" width="100px">Logo</td>
-                <td colspan="2">Banner</td>
+                <td height="100px" width="100px">
+                    <img src="images%20123.jpg" width="100" height="100">
+                </td>
+                <td colspan="2">
+                    <img src="Banner-5-dotnet-nuke-nopcommerce.jpg"  width="980" height="100" >
+                </td>
 
             </tr>
 
@@ -28,36 +32,38 @@
                         <p align="justify">Training is teaching, or developing in oneself or others, any skills and knowledge that relate to specific useful competencies. Training has specific goals of improving one's capability, capacity, productivity and performance.</p>
 
                     <h3>PHP</h3>
-                        <p align="justify">Training Overview
+                        < align="justify">Training Overview
 
-                            As wonderful as Laravel is, it does assume that you have a basic understanding of object-oriented. If you enjoy this style of learning, TalhaTraining is the missing piece in learning Laravel. We provide professional specialized training in Laravel.
+                            As wonderful as <b>Laravel</b> is, it does assume that you have a basic understanding of object-oriented. If you enjoy this style of learning, TalhaTraining is the missing piece in learning Laravel. We provide professional specialized training in Laravel.
 
                             Our mission is to help people learning Laravel and building awesome websites. In this course, we provide all information about Laravel. Learn everything at one place.
 
 
 
-                            Training Objectives
+                            <strong>Training Objectives</strong>
 
-                            Complete web development package with learn Laravel from scratch.
+                            <i>Complete web development</i> package with learn Laravel from scratch.
                             Building a Inventory System with Calendar, Customers Management, Account Management, Inventory Management, Invoices Management and Expenses Management.
-                            Object Oriented PHP
+                            <em>Object Oriented PHP
                             JavaScript, Ajax & jQuery Design
-                            SSL and email server.
-                            Online payment methods PayPal Standard and Authorize.net.
+                                SSL and email server.</em>>
+                            <u>Online payment methods PayPal Standard and Authorize.net.</u>
                             Making practical apps to bring your skills to the next level you will complete Individual / Group Project using PHP framework Laravel with MySQL.
                             Prerequisites
-                            All Laravel - the PHP Framework for Web Artisans attendees should have practical experience of writing web applications in PHP.
-                            Hands-on/Lecture Ratio
+                            <mark>All Laravel - the PHP Framework for Web Artisans attendees should have practical experience of writing web applications in PHP.
+                                Hands-on/Lecture Ratio</mark>
                             This training class is 80% hands-on, 20% lecture. Students learn by doing, with immediate opportunities to apply the material they learn to real-world problems.
                             Training Materials
                             All related software and lecture sheets and free e-book will provide in class.
                             Training Outline
 
-                            Laravel Framework – Basic PHP with Framework
+                            <big>Laravel Framework</big> – Basic <abbr title=" PHP Hypertext Preprocessor programming language">PHP</abbr> with Framework<br>
 
-                            About PHP & MySQL
+                            About <small>PHP & MySQL</small>
                             Advantage of using Framework
-                            Introducing Laravel Framework</p>
+                            Introducing Laravel Framework<br/>
+                    (a+b)<sup>2</sup><br/><hr/>Log10<sub>2</sub>
+                        </p>
                     <h3>Python</h3>
                         <p align="justify">Prerequisites
 
@@ -131,9 +137,50 @@
 
                             Another common task is how to store and retrieve information in a database. To address this goal, Java EE provides the Java Persistence API (JPA,) which makes it easy to map data used within a program to information stored in the tables and rows of a database. Also, creating web services or highly scalable logic components is simplified through the use of the Enterprise JavaBeans (EJB) specification. All of these APIs are well tested, relatively easy for Java developers to learn and can greatly simplify some of the hardest parts of enterprise development.
                         </p>
-                    <h3></h3>
-                    <h3></h3>
-                    <h3></h3>
+                    <h3>Which language you like</h3>
+                    <ol>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JS</li>
+                        <li>PHP</li>
+                        <li>JAVA - </li>
+                        <ol>
+                            <li>Core java</li>
+                            <li>J2EE</li>
+                        </ol>
+                        <li>Python</li>
+                    </ol>
+
+                    <h3>Which language you like</h3>
+                    <ol>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JS</li>
+                        <li>PHP</li>
+                        <li>JAVA -
+                            <ol type="A">
+                                <li>Core Java</li>
+                                <li>Java Level
+                                    <ol type="a">
+                                        <li>Beganer</li>
+                                        <li>Medium</li>
+                                        <li>Expert</li>
+                                    </ol>
+                                </li>
+                            </ol>
+                        </li>
+
+                        <li>Python</li>
+                    </ol>
+                    <h3>Which language you like -</h3>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JS</li>
+                        <li>Java</li>
+                        <li>Python</li>
+
+                    </ul>
                     <h3></h3>
                     <h3></h3>
                     <h3></h3>
