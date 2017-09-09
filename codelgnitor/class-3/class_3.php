@@ -13,10 +13,10 @@
         <table cellpadding="10px" border="1" align="center" width="980px" height="980">
             <tr>
                 <td height="100px" width="100px">
-                    <img src="images%20123.jpg" width="100" height="100">
+                    <img src="images 123.jpg" width="100" height="100">
                 </td>
                 <td colspan="2">
-                    <img src="Banner-5-dotnet-nuke-nopcommerce.jpg"  width="980" height="100" >
+                    <img src="Banner-5-dotnet-nuke-nopcommerce.jpg" width="980" height="100" >
                 </td>
 
             </tr>

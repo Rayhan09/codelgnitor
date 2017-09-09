@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f5e723-cd8d-436b-a11d-2ec17dd4c842" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codelgnitor/class_3.php" afterPath="$PROJECT_DIR$/codelgnitor/class_3.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codelgnitor/Banner-5-dotnet-nuke-nopcommerce.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codelgnitor/class_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codelgnitor/images 123.jpg" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +16,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="class_3.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codelgnitor/class_3.php">
+        <entry file="file://$PROJECT_DIR$/codelgnitor/class-3/class_3.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -32,6 +34,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/codelgnitor/class_3.php" />
+        <option value="$PROJECT_DIR$/codelgnitor/class-3/class_3.php" />
       </list>
     </option>
   </component>
@@ -74,6 +77,18 @@
               <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="codelgnitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="class-3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="codelgnitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="class-4" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -84,6 +99,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -111,18 +134,17 @@
       <workItem from="1504159142636" duration="1063000" />
       <workItem from="1504273196220" duration="2708000" />
       <workItem from="1504971527025" duration="1555000" />
-      <workItem from="1504987466194" duration="4972000" />
+      <workItem from="1504987466194" duration="5156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12087000" />
+    <option name="totallyTimeSpent" value="12271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="697" y="0" width="669" height="728" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21745789" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21745789" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -152,7 +174,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/codelgnitor/class_3.php">
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-3/class_3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -160,7 +182,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codelgnitor/class_3.php">
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-3/class_3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -168,7 +190,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codelgnitor/class_3.php">
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-3/class_3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -176,7 +198,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codelgnitor/class_3.php">
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-3/class_3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -184,7 +206,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codelgnitor/class_3.php">
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-3/class_3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
