@@ -12,7 +12,7 @@
     <body>
         <table cellpadding="10px" border="1" align="center" width="980px" height="980">
             <tr>
-                <td height="100px" width="100px">
+                <td id="logo" height="100px" width="100px">
                     <img src="images 123.jpg" width="100" height="100">
                 </td>
                 <td colspan="2">
@@ -32,8 +32,7 @@
                         <p align="justify">Training is teaching, or developing in oneself or others, any skills and knowledge that relate to specific useful competencies. Training has specific goals of improving one's capability, capacity, productivity and performance.</p>
 
                     <h3>PHP</h3>
-                        <p align="justify">
-                            Training Overview
+                        <p align="justify">Training Overview
 
                             As wonderful as <b>Laravel</b> is, it does assume that you have a basic understanding of object-oriented. If you enjoy this style of learning, TalhaTraining is the missing piece in learning Laravel. We provide professional specialized training in Laravel.
 
@@ -193,7 +192,9 @@
             </tr>
 
             <tr>
-                <td colspan="3" height="80px">Footer</td>
+                <td colspan="3" height="80px">
+                    <a  href="#logo">Top</a>
+                </td>
             </tr>
 
         </table>
