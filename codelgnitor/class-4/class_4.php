@@ -34,7 +34,7 @@
                     <h3>PHP</h3>
                         <p align="justify">Training Overview
 
-                            As wonderful as <b>Laravel</b> is, it does assume that you have a basic understanding of object-oriented. If you enjoy this style of learning, TalhaTraining is the missing piece in learning Laravel. We provide professional specialized training in Laravel.
+                            As wonderful as <b> <a href="https://laravel.com/">Laravel</a> </b> is, it does assume that you have a basic understanding of object-oriented. If you enjoy this style of learning, TalhaTraining is the missing piece in learning Laravel. We provide professional specialized training in Laravel.
 
                             Our mission is to help people learning Laravel and building awesome websites. In this course, we provide all information about Laravel. Learn everything at one place.
 
