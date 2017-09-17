@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f5e723-cd8d-436b-a11d-2ec17dd4c842" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/codelgnitor/class-4/class_4.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codelgnitor/class-4/sign_up.html" afterPath="$PROJECT_DIR$/codelgnitor/class-4/sign_up.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,10 +40,10 @@
       <file leaf-file-name="sign_up.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/codelgnitor/class-4/sign_up.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            <state relative-caret-position="533">
+              <caret line="55" column="44" lean-forward="false" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
               <folding>
-                <element signature="e#1817#1822#1" expanded="true" />
+                <element signature="e#1808#1813#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,12 +169,12 @@
       <workItem from="1504993279273" duration="2214000" />
       <workItem from="1505541804102" duration="591000" />
       <workItem from="1505544364259" duration="1007000" />
-      <workItem from="1505637841166" duration="3764000" />
+      <workItem from="1505637841166" duration="4019000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20054000" />
+    <option name="totallyTimeSpent" value="20309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="697" y="0" width="669" height="728" extended-state="0" />
@@ -305,10 +304,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codelgnitor/class-4/sign_up.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        <state relative-caret-position="533">
+          <caret line="55" column="44" lean-forward="false" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
           <folding>
-            <element signature="e#1817#1822#1" expanded="true" />
+            <element signature="e#1808#1813#1" expanded="true" />
           </folding>
         </state>
       </provider>
