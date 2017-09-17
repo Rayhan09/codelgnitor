@@ -22,7 +22,11 @@
             </tr>
 
             <tr>
-                <td colspan="3" height="50px">Menu</td>
+                <td colspan="3" height="50px">
+                    <a href="index.php">Home</a>
+                    <a href="sign_up.html">Sign up</a>
+                    <a href="about_us.php">About us</a>
+                </td>
             </tr>
 
             <tr>
@@ -34,7 +38,7 @@
                     <h3>PHP</h3>
                         <p align="justify">Training Overview
 
-                            As wonderful as <b> <a href="https://laravel.com/">Laravel</a> </b> is, it does assume that you have a basic understanding of object-oriented. If you enjoy this style of learning, TalhaTraining is the missing piece in learning Laravel. We provide professional specialized training in Laravel.
+                            As wonderful as <b> <a href="https://laravel.com/" target="_blank">Laravel</a> </b> is, it does assume that you have a basic understanding of object-oriented. If you enjoy this style of learning, TalhaTraining is the missing piece in learning Laravel. We provide professional specialized training in Laravel.
 
                             Our mission is to help people learning Laravel and building awesome websites. In this course, we provide all information about Laravel. Learn everything at one place.
 
@@ -192,8 +196,8 @@
             </tr>
 
             <tr>
-                <td colspan="3" height="80px">
-                    <a  href="#logo">Top</a>
+                <td colspan="3" height="80px" >
+                    <a  href="#logo">&and;</a>
                 </td>
             </tr>
 
