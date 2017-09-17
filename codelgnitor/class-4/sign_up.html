@@ -33,32 +33,70 @@
         <td>Left</td>
         <td valign="top">
             <h3>Sign Up...........</h3><hr/>
+                <form method="post" action="#">
+                        <table valign="center" width="80%" border="1">
 
-            <table valign="center" width="80%" border="1">
+                            <tr>
+                                <td>Full Name :</td>
+                                <td><input type="text" maxlength="10"  size="40" name="full_name"></td>
+                            </tr>
 
-                <tr>
-                    <td>Full Name :</td>
-                    <td><input type="text" maxlength="10"  size="40" name="full_name"></td>
-                </tr>
+                            <tr>
+                                <td>E-mail :</td>
+                                <td> <input type="email" maxlength="100" name="email" size="40"> </td>
+                            </tr>
 
-                <tr>
-                    <td>E-mail :</td>
-                    <td> <input type="email" maxlength="100" name="email" size="40"> </td>
-                </tr>
+                            <tr>
+                                <td>Password</td>
+                                <td> <input type="password" name="password" size="40" maxlength="30"></td>
+                            </tr>
 
-                <tr>
-                    <td>Password</td>
-                    <td> <input type="password" name="password" size="40" maxlength="30"></td>
-                </tr>
+                            <tr>
+                                <td>Date of Birth</td>
+                                <td> <input type="date" ></td>
+                            </tr>
 
-                <tr>
-                    <td>Date of Birth</td>
-                    <td> <input type="date" ></td>
-                </tr>
+                            <tr>
+                                <td>Address</td>
+                                <td> <textarea rows="6" cols="30"> </textarea></td>
+                            </tr>
+                            <tr>
+                                <td>Country</td>
+                                <td>
+                                    <select>
+                                        <option>Select tha Country </option>
+                                        <option value="bd">BD</option>
+                                        <option value="ud">UD</option>
+                                        <option value="uk">UK</option>
+                                        <option value="ca">Ca</option>
+                                        <option value="nu">NU </option>
+                                    </select>
+                                </td>
+                            </tr>
 
+                            <tr>
+                                <td>Gender</td>
+                                <td>
+                                    <input type="radio" name="gender" value="male">Male
+                                    <input type="radio" name="gender" value="female">Female
+                                </td>
+                            </tr>
 
-            </table>
+                            <tr>
+                                <td>I Agree</td>
+                                <td><input type="checkbox" name="agree"></td>
+                            </tr>
 
+                            <tr>
+                                <td></td>
+                                <td>
+                                    <input type="submit" name="btn" value="Save">
+                                    <input type="reset" name="btn" value="Reset">
+                                </td>
+                            </tr>
+
+                    </table>
+                </form>
             </td>
 
         <td width="150px">Right</td>
