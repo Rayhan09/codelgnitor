@@ -189,7 +189,7 @@
 
 
                 </td>
-                <td width="150px">Right</td>
+                <td width="120px">Right</td>
             </tr>
 
             <tr>

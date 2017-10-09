@@ -30,7 +30,7 @@
             </tr>
 
             <tr>
-                <td>Left</td>
+                <td width="80px">Left</td>
                 <td valign="top">
                     <h3> IT Training</h3>
                         <p align="justify">Training is teaching, or developing in oneself or others, any skills and knowledge that relate to specific useful competencies. Training has specific goals of improving one's capability, capacity, productivity and performance.</p>
@@ -192,7 +192,7 @@
 
 
                 </td>
-                <td width="150px">Right</td>
+                <td width="100px">Right</td>
             </tr>
 
             <tr>
