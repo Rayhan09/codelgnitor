@@ -192,7 +192,7 @@
 
 
                 </td>
-                <td width="100px">Right</td>
+                <td width="110px">Right</td>
             </tr>
 
             <tr>

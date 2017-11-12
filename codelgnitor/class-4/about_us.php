@@ -33,10 +33,10 @@
     </tr>
 
     <tr>
-        <td>Left</td>
+        <td width="80px">Left</td>
         <td valign="top">About Us </td>
 
-        <td width="150px">Right</td>
+        <td width="120px">Right</td>
     </tr>
 
     <tr>
