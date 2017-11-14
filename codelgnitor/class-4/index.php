@@ -7,6 +7,23 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+        <style>
+            body{
+                background-color: lightgoldenrodyellow;
+            }
+            table{
+                background-color:palegreen;
+            }
+            p{
+                color:gray;
+            }
+            .test{
+                color: beige;
+                font-family: "Comic Sans MS";
+                font-size: 100%;
+            }
+        </style>
     </head>
 
     <body>
@@ -36,7 +53,7 @@
                         <p align="justify">Training is teaching, or developing in oneself or others, any skills and knowledge that relate to specific useful competencies. Training has specific goals of improving one's capability, capacity, productivity and performance.</p>
 
                     <h3>PHP</h3>
-                        <p align="justify">Training Overview
+                        <p align="justify" class="test">Training Overview
 
                             As wonderful as <b> <a href="https://laravel.com/" target="_blank">Laravel</a> </b> is, it does assume that you have a basic understanding of object-oriented. If you enjoy this style of learning, TalhaTraining is the missing piece in learning Laravel. We provide professional specialized training in Laravel.
 
