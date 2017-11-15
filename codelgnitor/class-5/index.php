@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <link rel="icon" href="favicon.ico" type="image/x-icon">
 
-        <style>
+        <style type="text/css">
             body{
                 background-color: lightgoldenrodyellow;
             }
@@ -19,7 +19,7 @@
                 color:gray;
             }
             .test{
-                color: beige;
+                color: #ffc991;
                 font-family: "Comic Sans MS";
                 font-size: 100%;
             }
