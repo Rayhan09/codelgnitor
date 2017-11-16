@@ -14,7 +14,15 @@
                 <div id="logo"> </div>
                 <div id="banner"></div>
             </div>
-            <div id="menu"></div>
+            <div id="menu">
+
+            </div>
+            <div id="content_wrapper">
+                <div id="left"></div>
+                <div id="content"></div>
+                <div id="right"></div>
+            </div>
+
         </div>
 
     </body>
