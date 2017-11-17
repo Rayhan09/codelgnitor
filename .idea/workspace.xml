@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="35f5e723-cd8d-436b-a11d-2ec17dd4c842" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codelgnitor/class-5/layout/css/style.css" afterPath="$PROJECT_DIR$/codelgnitor/class-5/layout/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codelgnitor/class-5/layout/index.php" afterPath="$PROJECT_DIR$/codelgnitor/class-5/layout/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,20 +15,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codelgnitor/class-5/layout/css/style.css">
+        <entry file="file://$PROJECT_DIR$/codelgnitor/class-6/layout/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="153">
+              <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codelgnitor/class-5/layout/index.php">
+        <entry file="file://$PROJECT_DIR$/codelgnitor/class-6/layout/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            <state relative-caret-position="323">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -65,6 +64,7 @@
         <option value="$PROJECT_DIR$/codelgnitor/class-5/layout/index.html" />
         <option value="$PROJECT_DIR$/codelgnitor/class-5/layout/index.php" />
         <option value="$PROJECT_DIR$/codelgnitor/class-5/layout/css/style.css" />
+        <option value="$PROJECT_DIR$/codelgnitor/class-6/layout/css/style.css" />
       </list>
     </option>
   </component>
@@ -95,7 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,20 +112,20 @@
               <item name="codelgnitor" type="b2602c69:ProjectViewProjectNode" />
               <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="class-5" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="class-6" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="codelgnitor" type="b2602c69:ProjectViewProjectNode" />
               <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="class-5" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="class-6" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="codelgnitor" type="b2602c69:ProjectViewProjectNode" />
               <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="class-5" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="class-6" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
@@ -133,7 +133,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,15 +143,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-6" />
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5\layout" />
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5" />
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5\layout\css" />
       <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5" />
       <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-3" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5\layout" />
-      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5" />
-      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -196,12 +197,14 @@
       <workItem from="1510837001000" duration="1163000" />
       <workItem from="1510849341326" duration="391000" />
       <workItem from="1510850100223" duration="1737000" />
-      <workItem from="1510898207410" duration="1330000" />
+      <workItem from="1510898207410" duration="1740000" />
+      <workItem from="1510937836585" duration="333000" />
+      <workItem from="1510938309649" duration="2207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37338000" />
+    <option name="totallyTimeSpent" value="40288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="650" y="0" width="716" height="728" extended-state="0" />
@@ -237,6 +240,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-5/layout/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-5/layout/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-5/layout/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-5/layout/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/codelgnitor/class-5/layout/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -505,16 +540,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codelgnitor/class-5/layout/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        <state relative-caret-position="459">
+          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codelgnitor/class-5/layout/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="221">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-6/layout/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codelgnitor/class-6/layout/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
           <folding />
         </state>
       </provider>
