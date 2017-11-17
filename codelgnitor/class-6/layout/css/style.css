@@ -38,6 +38,21 @@ body{
     margin-top: 5px;
     background-color:darkslateblue ;
 }
+#menu ul{
+    margin: 0px;
+    padding: 0px;
+}
+#menu ul li{
+    float: left;
+    list-style-type: none;
+    background-color: black;
+    margin-left: 2px;
+    width: 120px;
+    text-align: center;
+    padding: 16px 10px;
+    cursor: pointer;
+
+}
 #content_wrapper{
     float: left;
     width: 100%;
@@ -49,7 +64,7 @@ body{
     float: left;
     width: 22%;
     height: 100%;
-    background-color: aliceblue;
+    background-color: aliceblue   ;
 }
 #content_wrapper #content{
     float: left;

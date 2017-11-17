@@ -15,12 +15,17 @@
                 <div id="banner"></div>
             </div>
             <div id="menu">
+                <ul>
+                    <li>Home</li>
+                    <li>Project</li>
+                    <li>About Us</li>
+                    <li>Contuct Us</li>
 
+                </ul>
             </div>
             <div id="content_wrapper">
                 <div id="left"></div>
                 <div id="content">
-                <p> this is content</p>
                 </div>
                 <div id="right"></div>
             </div>
