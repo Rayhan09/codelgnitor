@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f5e723-cd8d-436b-a11d-2ec17dd4c842" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codelgnitor/class-6/layout/css/style.css" afterPath="$PROJECT_DIR$/codelgnitor/class-6/layout/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codelgnitor/class-6/layout/index.php" afterPath="$PROJECT_DIR$/codelgnitor/class-6/layout/index.php" />
     </list>
@@ -17,8 +18,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/codelgnitor/class-6/layout/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="92" column="24" lean-forward="true" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+            <state relative-caret-position="465">
+              <caret line="119" column="40" lean-forward="false" selection-start-line="119" selection-start-column="40" selection-end-line="119" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -27,8 +28,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codelgnitor/class-6/layout/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="315">
+              <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -85,8 +86,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="650" />
-    <option name="width" value="716" />
+    <option name="x" value="677" />
+    <option name="width" value="689" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectView">
@@ -104,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,18 +130,11 @@
               <item name="class-6" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="codelgnitor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="codelgnitor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="class-6" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -153,16 +146,17 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-6" />
-      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5\layout" />
-      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5" />
-      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-4" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5\layout\css" />
       <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5" />
       <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-6\layout\images" />
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-6" />
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5\layout" />
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-5" />
+      <recent name="C:\xampp\htdocs\codelgnitor\codelgnitor\class-4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,18 +204,18 @@
       <workItem from="1510898207410" duration="1740000" />
       <workItem from="1510937836585" duration="333000" />
       <workItem from="1510938309649" duration="4641000" />
-      <workItem from="1510984483268" duration="4352000" />
+      <workItem from="1510984483268" duration="4397000" />
+      <workItem from="1511027141866" duration="2844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47074000" />
+    <option name="totallyTimeSpent" value="49963000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="650" y="0" width="716" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="677" y="0" width="689" height="728" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16857143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15750371" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -561,16 +555,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codelgnitor/class-6/layout/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="315">
+          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codelgnitor/class-6/layout/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="92" column="24" lean-forward="true" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+        <state relative-caret-position="465">
+          <caret line="119" column="40" lean-forward="false" selection-start-line="119" selection-start-column="40" selection-end-line="119" selection-end-column="40" />
           <folding />
         </state>
       </provider>
