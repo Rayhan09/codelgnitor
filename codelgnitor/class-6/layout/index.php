@@ -20,12 +20,14 @@
                     <li>Project</li>
                     <li>About Us</li>
                     <li>Contuct Us</li>
+                    <li>Gallary</li>
 
                 </ul>
             </div>
             <div id="content_wrapper">
                 <div id="left"></div>
                 <div id="content">
+                    <div class="box"></div>
                 </div>
                 <div id="right"></div>
             </div>
