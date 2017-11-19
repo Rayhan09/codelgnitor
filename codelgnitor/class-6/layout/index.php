@@ -29,7 +29,9 @@
                 <div id="content">
                     <div class="box"></div>
                     <div class="box1"></div>
-                    <div class="box2"></div>
+<!--                    <div class="box2"></div>-->
+                    <div class="box3"></div>
+
 
                 </div>
                 <div id="right"></div>
