@@ -31,6 +31,25 @@
                     <div class="box1"></div>
 <!--                    <div class="box2"></div>-->
                     <div class="box3"></div>
+                    <input list="ak">
+
+                    <datalist id="ak">
+                        <option value="Int Ex">
+                        <option value="Fir">
+                        <option value="opera">
+                        <option value="Sad">
+                        <option value="apple">
+                    </datalist>
+
+                    <details>
+                        <summary>about the companny</summary>
+                        <p>The new IT base ltd </p>
+                        <p>The content of the ltd </p>
+                        <p>The content of the ltd </p>
+                        <p>The content of the ltd </p>
+                        <p>The content of the ltd </p>
+
+                    </details>
 
 
                 </div>
