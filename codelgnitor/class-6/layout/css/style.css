@@ -26,10 +26,10 @@ body{
     float: left;
     width: 75%;
     height: 100%;
-    /*margin-left: .3%;*/
+    margin-left: .3%;
 
     /*background-color: bisque;*/
-    background-color:#6249b1;
+    /*background-color:#6249b1;*/
 }
 #menu{
     float: left;

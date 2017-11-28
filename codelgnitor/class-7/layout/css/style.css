@@ -47,24 +47,24 @@ body{
 }
 #content_wrapper #left{
     float: left;
-    width: 22%;
+    width: 32%;
     height: 100%;
     background-color: aliceblue;
 }
 #content_wrapper #content{
     float: left;
-    width: 55.4%;
+    width: 67.7%;
     height: 100%;
     background-color: aliceblue;
     margin-left: .3%;
-    margin-right: .3%;
+    /*margin-right: .3%;*/
 }
-#content_wrapper #right{
-    float: left;
-    width: 22%;
-    height: 100%;
-    background-color: aliceblue;
-}
+/*#content_wrapper #right{*/
+    /*float: left;*/
+    /*width: 22%;*/
+    /*height: 100%;*/
+    /*background-color: aliceblue;*/
+/*}*/
 #footer{
     float: left;
     width: 100%;
