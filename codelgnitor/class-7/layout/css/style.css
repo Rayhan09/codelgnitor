@@ -51,10 +51,15 @@ body{
     height: 100%;
     background-color: aliceblue;
 }
+#content_wrapper #left h3{
+    float: left;
+    color: black;
+}
 #content_wrapper #content{
     float: left;
     width: 67.7%;
     height: 100%;
+    color: black;
     background-color: aliceblue;
     margin-left: .3%;
     /*margin-right: .3%;*/

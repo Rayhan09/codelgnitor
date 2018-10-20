@@ -18,7 +18,9 @@
 
             </div>
             <div id="content_wrapper">
-                <div id="left"></div>
+                <div id="left">
+                    <h3>Category News</h3>
+                </div>
                 <div id="content">
                 <p> this is content</p>
                 </div>
