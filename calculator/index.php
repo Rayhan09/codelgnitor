@@ -1,7 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Madukori
- * Date: 21-Oct-18
- * Time: 1:21 AM
- */
+$a = 10;
+$b = 20;
+$total = $a + $b;
+
+echo "total is . $total";
