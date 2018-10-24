@@ -1,6 +1,8 @@
 <?php
-$a = 10;
-$b = 20;
-$total = $a + $b;
+ include_once "calculator.php";
 
-echo "total is . $total";
+$b = new calculator();
+
+$b ->add(30,25);
+$b ->sub();
+$b ->mal();
