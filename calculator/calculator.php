@@ -13,14 +13,13 @@ class calculator
     }
     public function sub ($a='',$b=''){
 
+        $this ->number1 = $a;
+        $this ->number2  = $b;
+
         echo "output of substraction ".($this->number1 - $this->number2);
 
     }
-    public function mal ($a='', $b=''){
-        echo "<BR/>" . "output of multiplication ".($this->number1 * $this->number2);
 
-
-    }
 }
 
 
