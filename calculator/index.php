@@ -6,7 +6,9 @@ function __autoload($classname){
 }
 
 $b = new calculator();
+$b ->prepare();
 
-$b ->add(30,25);
-$b ->sub(2,1);
-$b ->mal(5,6);
+$b = new Sony();
+$var = $b ->good();
+
+print_r($var);

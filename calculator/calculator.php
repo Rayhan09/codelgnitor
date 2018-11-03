@@ -5,21 +5,32 @@ class calculator
     public $number1= "";
     public $number2 = "";
 
-    public function add ($a= '', $b= ''){
-        $this ->number1 = $a;
-        $this ->number2  = $b;
+    public function prepare ($data){
 
-        echo "output of addition " . ($this->number1 + $this->number2)."<br/>";
-    }
-    public function sub ($a='',$b=''){
+        echo "<pre>";
+        print_r($data);
+        $this ->number1 = $data['num1'];
+        $this ->number2  = $data['num2'];
 
-        $this ->number1 = $a;
-        $this ->number2  = $b;
-
-        echo "output of substraction ".($this->number1 - $this->number2);
+        return $this;
 
     }
+    protected function test(){
+        echo "output form addition"."<br/>";
+        return $this;
 
+    }
+    public function sub (){
+        echo "output of substraction ";
+
+    }
+}
+
+class Sony extends calculator{
+    public function good(){
+        $ob = new calculator();
+        return $ob ->test();
+    }
 }
 
 
