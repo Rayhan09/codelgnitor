@@ -32,7 +32,3 @@ class Sony extends calculator{
         return $ob ->test();
     }
 }
-
-
-
-
