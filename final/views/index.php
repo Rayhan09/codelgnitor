@@ -1,3 +1,6 @@
 <?php
+include_once "../src/First.php";
 
-echo "hello final";
+$myfirstobj = new First();
+
+$myfirstobj->hello();
